@@ -183,3 +183,6 @@ or absent so the next steps are obvious:
 ## License
 
 Private / unreleased.
+_________________________
+
+Notes: note taking
