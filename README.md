@@ -186,3 +186,10 @@ Private / unreleased.
 _________________________
 
 Notes: note taking
+how to push live to github: 
+save files
+in terminal: 
+
+git add .
+git commit -m "whatever message for things you updated" 
+git push 
